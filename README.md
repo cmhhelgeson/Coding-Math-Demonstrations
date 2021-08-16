@@ -7,4 +7,7 @@ Highlights:
 
 A DDA Raycasting Demonstration
 
-![](/"OneLoneCoder.com - Pixel Game Engine - Spline Editor - FPS_ 209 2021-08-15 19-09-38.gif")
+![DDA Raycasting](OneLoneCoder.com%20-%20Pixel%20Game%20Engine%20-%20Spline%20Editor%20-%20FPS_%20209%202021-08-15%2019-09-38.gif)
+
+TODO:
+  Allocate variables for next state and deallocate variables for previous states instead of declaring variables for all states before the game loop begins.
